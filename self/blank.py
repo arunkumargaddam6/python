@@ -1,6 +1,0 @@
-color = input("enter your color: ")
-noun = input("enter your noun: ")
-celebrity = input("enter your favourite celebrty: ")
-print("roses are "+ color)
-print(noun + " are blue")
-print("I love: " + celebrity)
